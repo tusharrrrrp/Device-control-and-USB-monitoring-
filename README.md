@@ -11,7 +11,7 @@ A Python GUI tool that allows you to:
 - Admin privilege check
 
 ## Requirements
-- Python 3.x
+- Python 3.12.9
 - Windows OS (with admin rights)
 - GUI requires `tkinter`
 
