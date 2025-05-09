@@ -18,6 +18,7 @@ A Python GUI tool that allows you to:
 ## Setup
 
 1. Clone the repository:
+
    bash
    git clone https://github.com/tusharrrrrp/Device-control-and-USB-monitoring-.git
    cd Device-control-and-USB-monitoring-
