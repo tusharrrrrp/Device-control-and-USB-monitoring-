@@ -21,4 +21,5 @@ A Python GUI tool that allows you to:
 
    bash
    git clone https://github.com/tusharrrrrp/Device-control-and-USB-monitoring-.git
+
    cd Device-control-and-USB-monitoring-
